@@ -15,7 +15,7 @@ HELP = """**Join @The_HellBot and @Its_Fuckin_Hell to get more help!!
 
 🏷️ **Admin Commands**:
 \u2022 `/skip x`  -  Skip current or x song. [ x >= 2 ]
-\u2022 `/join`  -  Join voice chat of current group.
+\u2022 `/join|okkk`  -  Join voice chat of current group.
 \u2022 `/leave`  -  Leave current voice chat.
 \u2022 `/vc`  -  Check which VC is joined.
 \u2022 `/stop`  -  Stop playing music.
